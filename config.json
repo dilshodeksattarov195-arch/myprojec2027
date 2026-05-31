@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadersecrypt",
+        "uuid": 5572223,
+        "checksum": "ndu0xf"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
